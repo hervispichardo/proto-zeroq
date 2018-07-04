@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "512B9D4C-8341-4984-AA40-22F6FABCE796",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6C7C06C-55B4-458D-B9B5-25BB507A9499",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51DE1DB3-F356-41DE-92C6-5C9D6D7FBFFB",
+    "height": 68,
+    "width": 328,
+    "x": 0,
+    "y": 404
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "line-close",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E2C0C9B-CBDD-49C4-969A-C22946463362",
+      "overrideName": "B70C96DE-CBC9-4B36-ABE7-CD0858D75375_stringValue",
+      "value": "GES"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0349D6A-E772-4BFB-A63D-05A03D043299",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D8A5C5E1-5249-4276-A6A6-672F2B012EAB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EAC931EE-39B4-465D-AE2D-E562E0C379D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19025884-E360-4642-A93A-5C968EAD6C70",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BEF6B96-8FA4-4A50-8F97-A9D50F2115D1",
+    "height": 49,
+    "width": 148,
+    "x": 28,
+    "y": 331
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "hour",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C226ED21-7352-4287-A16B-23EED436DE1A",
+      "overrideName": "40EE28A2-944B-4F20-A422-DEE035A9A8F0_stringValue",
+      "value": "10:30 - 10:45"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A02D0AEF-6EB6-4276-A68D-974B8082139D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2347C312-CE8E-49FC-990D-C90E6BC6C948",
+  "verticalSpacing": 0
+}

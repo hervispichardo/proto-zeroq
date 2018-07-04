@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "3564CA16-938A-495A-BB8F-E94CE392FBB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7A860C8-AACC-4674-B6E4-5BE025346F81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A87E824F-0336-42E3-8C81-934F2A99AA19",
+    "height": 32,
+    "width": 160,
+    "x": 170,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E9BC53AF-106F-43FF-B1F6-5D36C875B91F"
+    },
+    {
+      "class": "text",
+      "id": "EF72A613-64F8-4D5A-968D-E82E9B8D6713"
+    }
+  ],
+  "name": "shedule",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FE10A43-04DD-40C3-8315-D1F9BCAF23A0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

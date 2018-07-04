@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "1E6E9ECB-3462-47AA-829D-D45CECAC398E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68CA01D9-6870-4C40-91C2-22D32AFC043C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DDB7C1F-F529-4AF6-8F12-CF53DCEEDD1A",
+    "height": 43,
+    "width": 43,
+    "x": 241,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E305C24B-4360-4501-9912-25D58A37B4A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38716BF1-7345-43B7-9117-CE122A78E5F9"
+    },
+    {
+      "class": "text",
+      "id": "7B1A8291-DA76-4B83-9BE2-EBB80F89B810"
+    }
+  ],
+  "name": "active-tickets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "218A7909-7E3A-4F3A-9FB7-83AB7077A14A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

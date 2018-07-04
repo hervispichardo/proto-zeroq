@@ -1,0 +1,152 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D04249D7-7B71-42E3-A39B-9438ED8BBC57",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "82267A7C-D3EE-44FA-B6BD-71E92ADA7305",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CED27AB6-A534-4F17-9882-E0918901DAFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AA7BD1B-EB94-4F18-883B-3658D556AF10",
+    "height": 635,
+    "width": 360,
+    "x": 2048,
+    "y": 734
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DA9DF3B8-9996-4ED4-976E-671A32DDC384",
+    "guides": [
+      16,
+      346,
+      344,
+      181,
+      217
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7D313F9C-F5C6-457D-8F95-8F9F75B92EFB"
+    },
+    {
+      "class": "group",
+      "id": "3DA7FA52-3CC5-42DC-9261-312A687D8482"
+    },
+    {
+      "class": "text",
+      "id": "3247999F-207C-43D1-9FAD-65E6609B023F"
+    },
+    {
+      "class": "group",
+      "id": "704A2CB6-37FB-4738-A510-730C09675B17"
+    },
+    {
+      "class": "group",
+      "id": "488CC682-561C-4636-9BBB-4262B7A56F3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57D8A62F-7F78-4A3A-9A08-284B0BC490D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8470C6A8-AAA1-4B3E-A74E-3FACA1A95A44"
+    },
+    {
+      "class": "text",
+      "id": "444FB231-EAE9-4A7B-BB20-B6DB2D1766DE"
+    },
+    {
+      "class": "group",
+      "id": "437E70D9-EFDB-4DF8-A0FF-AC23EC9C727E"
+    },
+    {
+      "class": "group",
+      "id": "95AFB918-F77E-4201-A284-259D4125989A"
+    },
+    {
+      "class": "group",
+      "id": "F718767F-3DE1-49F2-8658-7A96242964D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9094674-A03F-4DF6-B668-3A4C0C5E08F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3902899-A8D3-4938-BFAA-0147CB2940BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE3044C8-9A06-4669-AB29-33EE4FE2E2D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6E2B200-463E-4F7C-AF39-C979E8F53E2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B2A7A03-C959-4C8E-9965-9DB429F479E2"
+    },
+    {
+      "class": "text",
+      "id": "7A80568A-249A-4D8B-AA76-FDDCE08C129A"
+    }
+  ],
+  "name": "calendar-hours",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9DBBC63-A608-4BA5-9400-74D634F27757",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E9CDFE54-2E50-411A-959B-EB3999A4FC7A",
+    "guides": [
+      325
+    ]
+  }
+}

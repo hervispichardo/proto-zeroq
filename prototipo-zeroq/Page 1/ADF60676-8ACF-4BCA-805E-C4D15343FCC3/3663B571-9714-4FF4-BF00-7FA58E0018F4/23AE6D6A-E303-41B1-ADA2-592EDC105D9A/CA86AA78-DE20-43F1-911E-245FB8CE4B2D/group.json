@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "CA86AA78-DE20-43F1-911E-245FB8CE4B2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96696BFE-7C14-4623-849D-ABB8FBFDAF25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC0DD198-5BD1-4376-9D83-FC4DC12AF709",
+    "height": 29,
+    "width": 29,
+    "x": 7,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B7E47128-744B-4B8C-AF1A-57439C135B59"
+    }
+  ],
+  "name": "Ticket",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 225,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C942C3A-DB23-4D79-9EB9-75F4B50E4C04",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

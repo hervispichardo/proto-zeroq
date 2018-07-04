@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ADDC8A02-7100-4FCD-A5F7-C59D4AABC888",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B5ADC0B-D591-4DD2-B6C7-EABE9299427C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "9964B844-CD89-4269-A4DC-8A54CBBE0DC9",
+    "do_objectID": "C21E0723-6097-47CA-861C-DBDDC9D61009"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F49CB342-1172-4879-BDB6-BBAF40E59090",
+    "height": 68,
+    "width": 328,
+    "x": 0,
+    "y": 88
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "line-close",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E2C0C9B-CBDD-49C4-969A-C22946463362",
+      "overrideName": "B70C96DE-CBC9-4B36-ABE7-CD0858D75375_stringValue",
+      "value": "Depositos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91647B44-8A3B-4F3E-93C4-3418865CAC5B",
+      "overrideName": "F3CAA419-EF3D-4E9C-9297-1BBE575CBFD3_stringValue",
+      "value": "23 personas en fila"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B87E6BE-5ADE-42B0-81FF-C5642821488F",
+      "overrideName": "66410E06-5AEC-43C3-A3E3-252896748D45_stringValue",
+      "value": "12 mins de espera"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C9AF60C-00A9-488F-9625-4290E38A18FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D8A5C5E1-5249-4276-A6A6-672F2B012EAB",
+  "verticalSpacing": 0
+}

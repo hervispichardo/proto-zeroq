@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "091F8114-DE98-4951-A6F4-64D97C530CE8",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "1CB8C03D-E922-4DE4-BFD5-80B7B5DF28C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA97A4A6-AF0B-42D9-853A-79E100D235E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA8A61B8-F31F-4708-889A-76693F8D24CA",
+    "height": 635,
+    "width": 360,
+    "x": -273,
+    "y": -750
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "01CDB337-C04B-4DF5-9C7A-D0F41F9B2B90",
+    "guides": [
+      16,
+      346,
+      344,
+      181,
+      217
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4B1BD4A3-0602-405D-8226-AF64E2D44E3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E789A03C-3BB3-4465-B561-23259126F63F"
+    },
+    {
+      "class": "group",
+      "id": "85E4593F-6386-4B33-B0E8-9F55643FAD5C"
+    },
+    {
+      "class": "text",
+      "id": "71284006-D5A2-4202-8294-4ED051DC4A7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA13C298-882A-435B-B29A-DFDE29EE366D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA583E6F-DDAB-4356-BED4-56BBF40B20E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B37D378-22C3-4A89-9CA0-4BD0283C919D"
+    },
+    {
+      "class": "group",
+      "id": "259FFAC0-4EEA-446C-8F34-DC9249A54208"
+    }
+  ],
+  "name": "active-tickets",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23CEE618-3912-4CE8-9C02-BF1157F62A23",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "009DD47D-D614-40F8-B2F3-26B2D9068488",
+    "guides": [
+      325
+    ]
+  }
+}

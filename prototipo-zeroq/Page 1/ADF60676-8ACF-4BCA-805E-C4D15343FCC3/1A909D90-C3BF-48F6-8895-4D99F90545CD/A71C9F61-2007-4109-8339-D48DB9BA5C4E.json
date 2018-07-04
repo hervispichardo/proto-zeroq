@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A71C9F61-2007-4109-8339-D48DB9BA5C4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "330A97F6-ECA3-4AEB-927C-06FA36BB8368",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F18AB3D-21E5-4EEA-806E-F36AB7A3BF8F",
+    "height": 68,
+    "width": 328,
+    "x": 0,
+    "y": 260
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "line-close",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E2C0C9B-CBDD-49C4-969A-C22946463362",
+      "overrideName": "B70C96DE-CBC9-4B36-ABE7-CD0858D75375_stringValue",
+      "value": "Licencias"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31203707-39AA-40BB-A05B-95FD604A015A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D8A5C5E1-5249-4276-A6A6-672F2B012EAB",
+  "verticalSpacing": 0
+}

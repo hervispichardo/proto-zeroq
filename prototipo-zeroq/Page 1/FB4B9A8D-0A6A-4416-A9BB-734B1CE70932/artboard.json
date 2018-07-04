@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "85EF59B1-997E-4D32-8CCD-8527BE339461",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "FB4B9A8D-0A6A-4416-A9BB-734B1CE70932",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F693B570-9E42-49F8-992D-64F7D13146D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F4E34D7-CB81-462F-9609-B6E795897FBF",
+    "height": 800,
+    "width": 360,
+    "x": 1164,
+    "y": -18
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DE9DCB47-8314-4A68-8547-5CD423C80528",
+    "guides": [
+      16,
+      346,
+      344,
+      181,
+      217
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9924A279-4A0A-4219-8175-411F0EC93919"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48D16F5E-D682-49F2-96D4-A6AB00D2FB11"
+    },
+    {
+      "class": "text",
+      "id": "6FCA5107-2660-4037-96B0-98A7FCC210E7"
+    },
+    {
+      "class": "group",
+      "id": "2C81EE44-7C90-4CCC-BB4E-8E671DBB00F0"
+    },
+    {
+      "class": "group",
+      "id": "19145764-CE15-428C-B595-313FC861C309"
+    },
+    {
+      "class": "group",
+      "id": "3FAED7EB-4787-4149-8D66-7126796EC5A0"
+    },
+    {
+      "class": "group",
+      "id": "C5257BC3-0DB9-4962-A078-0F6BE9707940"
+    }
+  ],
+  "name": "getTicket",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1D8C707-4700-4139-97EB-9DA6340384E9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8266D693-9DA2-47EE-9A56-100B04ABDAED",
+    "guides": [
+      325
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "8BDB9567-908B-4484-8624-3393D30CF4BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B94EAFEB-48EE-4F64-9C60-DE897C727902",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 1,
+    "destinationArtboardID": "64633001-0D8D-4829-A4C5-57905ADF53F1",
+    "do_objectID": "29E28CA8-D6C8-4F6A-9429-2AB1174D4906"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDD463D7-328C-4D47-8E24-6704B0145B1C",
+    "height": 69,
+    "width": 185,
+    "x": -1,
+    "y": 568
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B4A02455-9D4E-4B79-B9F4-B8FB8A3A128F"
+    },
+    {
+      "class": "text",
+      "id": "AEE2F936-8B84-43DB-A8E4-12C934743A38"
+    },
+    {
+      "class": "text",
+      "id": "31040787-5DC6-4609-B5A9-89C99E045445"
+    }
+  ],
+  "name": "button-template",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65DF2344-2595-4AAD-A514-7BF2FAF1CB81",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

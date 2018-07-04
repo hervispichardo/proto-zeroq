@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "256CE7F8-39ED-4D20-9697-F0DF7EEE577C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44AC875A-2EAA-4F3C-8062-6F83DDEEA757",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5990A99D-ACFD-499C-A4F7-DE8CC068166F",
+    "height": 49,
+    "width": 148,
+    "x": 28,
+    "y": 218
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "14B8CBFC-10FE-4AB0-95E1-6C5BBCFD2DBF"
+    },
+    {
+      "class": "text",
+      "id": "CEE4E293-4590-493D-B766-53B601BAC786"
+    },
+    {
+      "class": "text",
+      "id": "FF618158-ABB3-4640-BCDF-06F84BBAE608"
+    }
+  ],
+  "name": "hour",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9C61834-1AB6-4DB3-9B0A-6027C2387864",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
